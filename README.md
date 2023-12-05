@@ -1,4 +1,4 @@
-# project link link(https://github.com/gaugayathri/movie-search-bar/issues/1)
+# project link (https://github.com/gaugayathri/movie-search-bar/issues/1)
 
 # Getting Started with Create React App
 
